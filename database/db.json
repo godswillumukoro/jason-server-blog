@@ -1,0 +1,26 @@
+{
+  "posts": [
+    {
+      "title": "Justina",
+      "body": "It’s not the first time that regional leaders have floated the idea of creating a common currency in South America. However analysts are skeptical the project could take off anytime soon due to the differences in monetary policy across the region.\n\n",
+      "likes": 0,
+      "id": 4
+    },
+    {
+      "title": "Kamoru",
+      "body": "The Mahdia Secondary School Dormitory, where the fire happened, is at the center of the Guyanese government’s push to improve the education level in the less developed part of the country. lt mostly served indigenous children, although authorities couldn’t immediately confirm if any of the children who were killed were from indigenous communities.\n\n",
+      "likes": 0,
+      "id": 5
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "comment": "A POST, PUT or PATCH request should include a Content-Type: application/json header to use the JSON in the request body. Otherwise it will return a 2XX status code, but without changes being made to the data.            "
+    },
+    {
+      "id": 2,
+      "comment": "A POST, PUT or PATCH request should include a Content-Type: application/json header to use the JSON in the request body. Otherwise it will return a 2XX status code, but without changes being made to the data.            "
+    }
+  ]
+}
